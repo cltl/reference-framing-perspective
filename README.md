@@ -46,6 +46,7 @@ Link for paper submission: tba
 ### Invited speakers
 
 Maria Antoniak
+
 Vered Shwartz
 
 ### Organizers
