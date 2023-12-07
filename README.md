@@ -3,9 +3,10 @@
 Co-located with LREC-COLING 2024
 
 
-When: between May 20th to May 25th (LREC-COLING conference)
-Where: Torino, Italy (co-located with LREC-COLING 2024)
-Deadline for submissions: tba
+* When: between May 20th to May 25th (LREC-COLING conference)
+* Where: Torino, Italy (co-located with LREC-COLING 2024)
+* Deadline for submissions: tba
+* Paper submission link: tba
 
 
 ## Call for Papers
