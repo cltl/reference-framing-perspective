@@ -53,7 +53,7 @@ Vered Shwartz
 
 ### Organizers
 
-Tommaso Caselli, Malvina Nissim, Levi Remijnse, Pia Sommerauer, Piek Vossen
+Pia Sommerauer, Tommaso Caselli, Malvina Nissim, Levi Remijnse, Piek Vossen
 
 ### References
 
