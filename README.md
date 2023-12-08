@@ -3,10 +3,11 @@
 Co-located with LREC-COLING 2024
 
 
-* When: between May 20th to May 25th (LREC-COLING conference)
+* When: Saturday, May 25th, 20204
 * Where: Torino, Italy (co-located with LREC-COLING 2024)
-* Deadline for submissions: tba
+* Deadline for submissions: February (details tba)
 * Paper submission link: tba
+* Deadline for camera ready papers: beginning of April 2024 (details tba)
 
 
 ## Call for Papers
