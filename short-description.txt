@@ -1,0 +1,3 @@
+Short description
+
+ We aim to bring together different research communities interested in lexical and syntactic variation, referential grounding, frame semantics, and perspectives. When something happens in the world, we have access to an unlimited range of ways (from lexical choices to specific syntactic structures) to refer to the same real-world event. Variations in reference may convey radically different perspectives. In this workshop, we propose to adopt Frame Semantics (Fillmore, 1968, 1985, 2006)  as a unifying theoretical framework and analysis method to understand the choices made in linguistic references to events.
