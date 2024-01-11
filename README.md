@@ -18,6 +18,8 @@ When something happens in the world, we have access to an unlimited range of way
 
 To facilitate discussion among participants and to make this a real working workshop, we make a shared corpus available. The corpus is composed of news articles reporting on the 2020/2021 Eurovision Song Contest (canceled in 2020 and held in 2021) that took place in Rotterdam (the Netherlands). The news articles have been collected using the structured data-to-text approach (Vossen et al., 2018). At this point, the corpus contains texts in English and Dutch. We are extending it to a range of other European languages. We invite participants to submit short and targeted analyses using the data (extended abstracts to be discussed in a hands-on data session). Participants are also free to use the data in regular contributions. More information about the corpus will be released soon.
 
+[Read more about the shared data](https://cltl.github.io/reference-framing-perspective/data)
+
 ### Regular Contributions
 
 Regular contributions: We aim to lay the groundwork for such efforts. We invite contributions (regular long papers of 8 pages or short papers of 4 pages) targeting any of the following - non-exhaustive - list of topics:

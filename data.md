@@ -2,7 +2,7 @@
 
 We provide a multuilingual dataset consisting of texts about the Eurovision Song Contest (spanning the years 2019, 2020, and 2021). The dataset has been collected via Wikidata and Wikipedia. A subset of documents have been manually annotated with Frame Semantic information and coreference. Another subset has been labeled automatically for coreference resolution.
 
-The dataset can be accessed via Github: https://github.com/cltl/rfp_corpus_collection
+You can access the data via our [Github repository](https://github.com/cltl/rfp_corpus_collection)
 
 We are still working on processing the data and will update the repository regularly.
 
