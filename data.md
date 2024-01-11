@@ -1,6 +1,6 @@
 # Shared Dataset
 
-We provide a multuilingual dataset consisting of texts about the Eurovision Song Contest (spanning the years 2019, 2020, and 2021). The dataset has been collected via Wikidata and Wikipedia. A subset of documents have been manually annotated with Frame Semantic information and coreference. Another subset has been labeled automatically for coreference resolution.
+We provide a multuilingual and referentially grounded dataset consisting of texts about the Eurovision Song Contest (spanning the years 2019, 2020, and 2021). The dataset has been collected via Wikidata and Wikipedia in such a way that each document is referenitally grounded to an event (a specific edition of Eurovision) or a particular participant (an artist participating in an event of Eurovision). A subset of documents have been manually annotated with Frame Semantic information and coreference. Another subset has been labeled automatically for coreference resolution.
 
 You can access the data via our [Github repository](https://github.com/cltl/rfp_corpus_collection)
 
@@ -24,3 +24,6 @@ Our manual, Frame Semantic annotations follow an annotation approach developed i
 ### References:
 
 Remijnse, L., Vossen, P., Fokkens, A. and Titarsolej, S., 2022, June. Introducing Frege to Fillmore: A FrameNet Dataset that Captures both Sense and Reference. In Proceedings of the Thirteenth Language Resources and Evaluation Conference (pp. 39-50).
+
+
+[Back to the Call for Papers](https://cltl.github.io/reference-framing-perspective)
