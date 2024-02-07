@@ -43,13 +43,17 @@ COLING-LREC policy for submissions:
 
 When submitting a paper from the START page, authors will be asked to provide essential information about resources (in a broad sense, i.e. also technologies, standards, evaluation kits, etc.) that have been used for the work described in the paper or are a new result of your research. Moreover, ELRA encourages all LREC-COLING authors to share the described LRs (data, tools, services, etc.) to enable their reuse and replicability of experiments (including evaluation ones).
 
-Link for paper submission: tba
 
 ### Extended Abstracts
 
 We invite extended abstracts (1,500 words maximum) about small analyses or experiments conducted on our Shared Data. The abstracts will be non-archival and discussed in a dedicated data session.
 
-Link for paper submission: tba
+### submission
+
+Please submit your contribution via this link: [Submission link](https://softconf.com/lrec-coling2024/reference-framing-perspective2024/user/scmd.cgi?scmd=submitPaperCustom&pageid=0)
+
+You can select the appropriate paper category (long paper, short paper, extended abstract)
+
 
 ### Invited speakers
 
