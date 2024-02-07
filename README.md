@@ -48,7 +48,7 @@ When submitting a paper from the START page, authors will be asked to provide es
 
 We invite extended abstracts (1,500 words maximum) about small analyses or experiments conducted on our Shared Data. The abstracts will be non-archival and discussed in a dedicated data session.
 
-### submission
+### Submission
 
 Please submit your contribution via this link: [Submission link](https://softconf.com/lrec-coling2024/reference-framing-perspective2024/user/scmd.cgi?scmd=submitPaperCustom&pageid=0)
 
@@ -57,13 +57,41 @@ You can select the appropriate paper category (long paper, short paper, extended
 
 ### Invited speakers
 
-Maria Antoniak
+[Maria Antoniak](https://maria-antoniak.github.io/)
 
-Vered Shwartz
+[Vered Shwartz](https://www.cs.ubc.ca/~vshwartz/)
 
 ### Organizers
 
 Pia Sommerauer, Tommaso Caselli, Malvina Nissim, Levi Remijnse, Piek Vossen
+
+### Program Committee
+
+Özge  Alacam
+Jelke  Bloem
+Tommaso  Caselli
+Oliver  Czulo
+Loic  De Langhe
+Mark  Finlayson
+Antske Fokkens
+Fritz Günther
+Sanne  Hoecken
+Eva  Huber
+Allison Lahnala
+Lucy Li
+Gosse  Minnema
+Roser Morante
+Seyed Mahed Mousavi
+Sebastian  Padó
+Massimo  Poesio
+Marco Rovera
+Thomas Schmidt
+Sara  Tonelli
+Tiago  Torrent
+Leonie  Weissweiler
+Philipp  Wicke
+Alexander Willich
+Alexander Ziem
 
 ### References
 
