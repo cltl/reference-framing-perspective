@@ -8,7 +8,6 @@ Co-located with LREC-COLING 2024
 * Deadline for submissions:  February 20, 2024
 * Paper types: regular papers (long and short) and extended abstracts
 * [Submission link](https://softconf.com/lrec-coling2024/reference-framing-perspective2024/user/scmd.cgi?scmd=submitPaperCustom&pageid=0)
-
 * Deadline for camera ready papers: April 1st, 2024
 
 
@@ -69,7 +68,6 @@ Pia Sommerauer, Tommaso Caselli, Malvina Nissim, Levi Remijnse, Piek Vossen
 
 Özge  Alacam
 Jelke  Bloem
-Tommaso  Caselli
 Oliver  Czulo
 Loic  De Langhe
 Mark  Finlayson
