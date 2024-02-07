@@ -6,8 +6,9 @@ Co-located with LREC-COLING 2024
 * When: Saturday, May 25th, 2024
 * Where: Torino, Italy (co-located with LREC-COLING 2024)
 * Deadline for submissions:  February 20, 2024
-* [Full paper submission link](https://softconf.com/lrec-coling2024/reference-framing-perspective2024/user/scmd.cgi?scmd=submitPaperCustom&pageid=0)
-* [Extended abstract submission link](https://softconf.com/lrec-coling2024/reference-framing-perspective2024/user/scmd.cgi?scmd=submitPaperCustom&pageid=1)
+* Paper types: regular papers (long and short) and extended abstracts
+* [Submission link](https://softconf.com/lrec-coling2024/reference-framing-perspective2024/user/scmd.cgi?scmd=submitPaperCustom&pageid=0)
+
 * Deadline for camera ready papers: April 1st, 2024
 
 
