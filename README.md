@@ -8,7 +8,8 @@ Co-located with LREC-COLING 2024
 * Deadline for submissions:  February 20, 2024
 * Paper types: regular papers (long and short) and extended abstracts
 * [Submission link](https://softconf.com/lrec-coling2024/reference-framing-perspective2024/user/scmd.cgi?scmd=submitPaperCustom&pageid=0)
-* Deadline for camera ready papers: April 1st, 2024
+* Shared data: https://github.com/cltl/rfp_corpus_collection
+* Deadline for camera ready papers: March 29th, 2024
 
 
 ## Call for Papers
